@@ -1,0 +1,1 @@
+Versi CLEAN: seksyen Identiti KPU/montaj gambar dan Sorotan Visual telah dibuang. Gambar ahli kekal dalam seksyen Ahli & Kepakaran.
